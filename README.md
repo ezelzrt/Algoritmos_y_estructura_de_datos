@@ -18,4 +18,4 @@
 - [TP0:](TP0) Repaso general de lenguaje C realizando el algoritmo de selección.
 - [TP1-Fixcol:](TP1-Fixcol) El objetivo era manejar archivos y crear un programa que se le pasen parametros por consola. El programa consiste en dividir un texto en reglones según una cantidad máxima de caracteres pasadas por parametro.
 - [TP2-AlgoGram:](TP2-AlgoGram) El objetivo era crear una especie de red social simil Twitter utilizando las estructuras aprendidas y optimizando tiempos de complejidad.
-- [TP3-NetStats:](TP3-NetStats) En este tp el objetivo principal era la utilización de distintos tipos de grafos para crear diferentes algortimos de busqueda y relacion entre los datos.
+- [TP3-NetStats:](TP3-NetStats) El objetivo principal era la utilización de distintos tipos de grafos para la implementación de diferentes algoritmos como BFS, Page Rank, Label Propagation, Backtracking, etc. para la resolucion del TP.
