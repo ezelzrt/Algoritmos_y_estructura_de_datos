@@ -1,6 +1,6 @@
 # Algoritmos_y_estructura_de_datos
 - Durante toda la cursada se utilizo Linux, ya que era obligatorio, por ello tal vez algunos programas no funcionen en Windows.
-- En casi toda la materia se utilizo lenguaje C, excepto por el ultimo trabjo que se realizo con Python.
+- En la materia se utilizo lenguaje C, excepto por el ultimo trabjo práctico que se realizo en Python.
 
 ## Tipos de Datos Abstractos
 - Todos realizados durante la cursada, algunos a partir solo de la definición de las primitivas.
