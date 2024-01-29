@@ -1,5 +1,5 @@
-# Algoritmos_y_estructura_de_datos
-- Durante toda la cursada se utilizo Linux, ya que era obligatorio, por ello tal vez algunos programas no funcionen en Windows.
+# Algoritmos y estructura de datos - catedra Buchwald - 2c 2021
+- Durante toda la cursada se utilizo Linux, ya que era requisito de la materia, y por ello algunos programas tal vez no funcionen en Windows.
 - En la materia se utilizo lenguaje C, excepto por el ultimo trabjo práctico que se realizo en Python.
 
 ## Tipos de Datos Abstractos
